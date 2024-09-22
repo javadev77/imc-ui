@@ -1,6 +1,6 @@
 services:
   imc-ui:
-    image: imc-ui:1.0.0
+    image: javadev09177/imc-ui:1.0.0
     container_name: imc-ui
     restart: always
     networks:
